@@ -39,7 +39,7 @@ This material is intended solely for non-commercial personal and organizational 
 
 1. **Artificial Intelligence Platform Usage Restrictions**  
    1.1 Use of this material is only permitted on OpenAI ChatGPT's temporary conversation mode (with chat history disabled), strictly forbidding upload, storage, or training use.  
-   1.2 Use on the following platforms requires prior written authorization (requests via GitHub Issues): Claude, Anthropic, xAI Grok, Microsoft Copilot, Google Gemini, DeepSeek.  
+   1.2 Use on the following platforms requires prior written authorization (requests via GitHub Issues): Claude Anthropic, xAI Grok, Microsoft Copilot, Google Gemini, DeepSeek.  
    1.3 Uploading, storing, training, or use on all other AI platforms and derivatives is prohibited, including but not limited to Meta LLaMA, HuggingFace, Midjourney, Stable Diffusion, Baidu ERNIE Bot, iFlytek Spark, 360 Brain, Baichuan, Kimi, and others.
 2. **Upload Risks**  
    Users must take reasonable measures to ensure the material is not uploaded, stored, or used on unauthorized platforms. The licensor disclaims all responsibility for violations; users bear all consequences.
@@ -102,7 +102,7 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 
 1. **人工智能平台使用限制**  
    1.1 仅允许在OpenAI ChatGPT的临时对话模式（关闭聊天记录）下使用本资料，严禁将资料上传至云端、保存或用于训练模型。  
-   1.2 以下平台使用本资料内容需事先获得版权方书面授权（授权申请请通过GitHub Issues提交）：Claude、Anthropic、xAI Grok、Microsoft Copilot、Google Gemini、DeepSeek。  
+   1.2 以下平台使用本资料内容需事先获得版权方书面授权（授权申请请通过GitHub Issues提交）：Claude Anthropic、xAI Grok、Microsoft Copilot、Google Gemini、DeepSeek。  
    1.3 禁止在其他人工智能平台及其所有衍生版本中上传、存储、训练或使用本资料，举例包括但不限于Meta LLaMA、HuggingFace、Midjourney、Stable Diffusion、文心一言、讯飞星火、百度千帆、360智脑、百川、Kimi等。
 2. **资料上传与风险**  
    使用者须采取合理措施确保资料不被上传至未授权平台，不被保存或用于训练。如违反，本协议不承担任何责任，相关后果由使用者自负。
