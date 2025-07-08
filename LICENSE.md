@@ -46,8 +46,9 @@ This material is intended solely for non-commercial personal and organizational 
 3. **Agreement Effectiveness and Updates**  
    This agreement is effective upon publication and applies to all subsequent versions, updates, modifications, and redistributions of the material. The licensor reserves the right to revise terms at any time; changes become effective immediately upon release. Continued use implies acceptance of updated terms.  
    Users should regularly check the official release page to stay informed of any updates.
-4. **Applicable Law and Dispute Resolution**  
-   This agreement is governed by the laws of the People’s Republic of China. Disputes should be resolved amicably; failing which, courts in the licensor's jurisdiction shall have exclusive jurisdiction.
+4. **Scope of Application, Governing Law, and Dispute Resolution**
+   This material and this agreement permit any user worldwide to download, study, and use. All users, regardless of their location, must comply with all terms of this agreement.  
+   The formation, validity, interpretation, and dispute resolution of this agreement shall be governed by the laws of the People's Republic of China, and any disputes shall be submitted to the competent court at the location of the copyright holder.
 5. **Terminology**  
    “Trusted Private Platform” refers to invitation-only, non-public, access-controlled online study or work groups that do not publicly disclose the material.
 6. **Additional Authorization and Communication**  
@@ -108,8 +109,9 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 3. **协议生效与版本更新**  
    本协议自发布之日起生效，自动适用于资料的所有后续版本、更新、修改及再分发副本。版权方保留随时修订协议的权利，修订内容在发布后立即生效。用户继续使用资料视为同意最新版本条款。  
    用户应定期关注资料发布页面，确保了解并遵守最新协议。
-4. **法律适用与争议解决**  
-   本协议及其解释适用中华人民共和国法律。因本协议产生的争议，双方应友好协商解决；协商不成时，版权方所在地人民法院具有管辖权。
+4. **适用范围及法律适用与争议解决**
+   本资料及本协议允许全球范围内的任何用户下载、学习和使用。所有用户无论身处何地，均须遵守本协议所有条款。  
+   本协议的订立、生效、解释及争议解决均适用中华人民共和国法律，任何争议应提交版权方所在地人民法院管辖。
 5. **术语定义**  
    “受信私人平台”指基于邀请、非公开、受控访问的在线学习或工作群组，不得对外公开资料内容。
 6. **额外授权与沟通**  
