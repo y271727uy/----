@@ -46,7 +46,7 @@ This material is intended solely for non-commercial personal and organizational 
 3. **Agreement Effectiveness and Updates**  
    This agreement is effective upon publication and applies to all subsequent versions, updates, modifications, and redistributions of the material. The licensor reserves the right to revise terms at any time; changes become effective immediately upon release. Continued use implies acceptance of updated terms.  
    Users should regularly check the official release page to stay informed of any updates.
-4. **Scope of Application, Governing Law, and Dispute Resolution**
+4. **Scope of Application, Governing Law, and Dispute Resolution**   
    -This material and this agreement permit any user worldwide to download, study, and use. All users, regardless of their location, must comply with all terms of this agreement.  
    -The formation, validity, interpretation, and dispute resolution of this agreement shall be governed by the laws of the People's Republic of China, and any disputes shall be submitted to the competent court at the location of the copyright holder.
 5. **Terminology**  
