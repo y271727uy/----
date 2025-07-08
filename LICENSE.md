@@ -1,4 +1,4 @@
-# Usage Agreement for IELTS Classroom Notes
+# Usage Agreement for Classroom Electronic Notes
 
 Material Name:Classroom Electronic Notes  
 Version: V1.0  
