@@ -1,6 +1,6 @@
 # Usage Agreement for IELTS Classroom Notes
 
-Material Name: IELTS Classroom Electronic Notes  
+Material Name:Classroom Electronic Notes  
 Version: V1.0  
 Date of Issue: July 8, 2025  
 Copyright Holder ID: y271727uy  
@@ -62,7 +62,7 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 
 # 资料使用协议
 
-**资料名称**：雅思课堂电子笔记  
+**资料名称**：课堂电子笔记  
 **版本号**：V1.0  
 **发布日期**：2025年7月8日  
 **版权所有人标识**：y271727uy  
