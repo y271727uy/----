@@ -39,7 +39,7 @@ This material is intended solely for non-commercial personal and organizational 
 
 1. **Artificial Intelligence Platform Usage Restrictions**  
    1.1 Use of this material is only permitted on OpenAI ChatGPT's temporary conversation mode (with chat history disabled), strictly forbidding upload, storage, or training use.  
-   1.2 Use on the following platforms requires prior written authorization (requests via GitHub Issues): Claude Anthropic, xAI Grok, Microsoft Copilot, Google Gemini, DeepSeek.  
+   1.2 Use on the following platforms requires prior written authorization (requests via GitHub Issues):Anthropic Claude, xAI Grok, Microsoft Copilot, Google Gemini, DeepSeek.  
    1.3 Uploading, storing, training, or use on all other AI platforms and derivatives is prohibited, including but not limited to Meta LLaMA, HuggingFace, Midjourney, Stable Diffusion, Baidu ERNIE Bot, iFlytek Spark, 360 Brain, Baichuan, Kimi, and others.
 2. **Upload Risks**  
    Users must take reasonable measures to ensure the material is not uploaded, stored, or used on unauthorized platforms. The licensor disclaims all responsibility for violations; users bear all consequences.
@@ -97,7 +97,7 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 5. **名誉保护**  
    禁止任何利用本资料散布虚假信息、诽谤、造谣、中伤或侵害他人隐私和机构声誉的行为。
 6. **禁止上传及存在于社交媒体**  
-   未经书面授权，严禁以任何形式将本资料上传、发布、存储或存在于任何社交媒体、公开平台、视频网站及相关线上渠道，包括但不限于微博、微信、QQ、知乎、豆瓣、抖音、B站、小红书、企业微信、钉钉、github公开仓库(私有仓库见附加条款)、Instagram、Facebook、Twitter、YouTube、Reddit、Discord等。 该禁止适用于所有内容形式，包括原文、截图、摘录、翻译、改编、讲解及其他任何形式的展示或传播。
+   未经书面授权，严禁以任何形式将本资料上传、发布、存储或存在于任何社交媒体、公开平台、视频网站及相关线上渠道，包括但不限于微博、微信、QQ、知乎、豆瓣、抖音、小黑盒、百度贴吧、Bilibili、小红书、企业微信、钉钉、github公开仓库(github私有仓库规定见附加条款)、Telegram、TikTok、Instagram、Facebook、Twitter、YouTube、Reddit、Discord等。 该禁止适用于所有内容形式，包括原文、截图、摘录、翻译、改编、讲解及其他任何形式的展示或传播。
 
 
 
@@ -106,7 +106,7 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 
 1. **人工智能平台使用限制**  
    1.1 仅允许在OpenAI ChatGPT的临时对话模式（关闭聊天记录）下使用本资料，严禁将资料上传至云端、保存或用于训练模型。  
-   1.2 以下平台使用本资料内容需事先获得版权方书面授权（授权申请请通过GitHub Issues提交）：Claude Anthropic、xAI Grok、Microsoft Copilot、Google Gemini、DeepSeek。  
+   1.2 以下平台使用本资料内容需事先获得版权方书面授权（授权申请请通过GitHub Issues提交）：Anthropic Claude、xAI Grok、Microsoft Copilot、Google Gemini、DeepSeek。  
    1.3 禁止在其他人工智能平台及其所有衍生版本中上传、存储、训练或使用本资料，举例包括但不限于Meta LLaMA、HuggingFace、Midjourney、Stable Diffusion、文心一言、讯飞星火、百度千帆、360智脑、百川、Kimi等。
 2. **资料上传与风险**  
    使用者须采取合理措施确保资料不被上传至未授权平台，不被保存或用于训练。如违反，本协议不承担任何责任，相关后果由使用者自负。
