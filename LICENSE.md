@@ -34,6 +34,11 @@ This material is intended solely for non-commercial personal and organizational 
    - **Direct forwarding, uploading, or sharing of material files or content by any means is prohibited, except by indirect download via official GitHub links.**
 5. **Reputation Protection**  
    Dissemination of false information, defamation, slander, rumors, or infringement on personal privacy or institutional reputation using this material is prohibited.
+6. **Prohibition on Uploading and Presence on Social Media**  
+  Without prior written authorization, any form of uploading, publishing, storing, or hosting this material on any social media, public platform, video-sharing site, or related online channel is strictly prohibited. This includes but is not limited to:
+Weibo, WeChat, QQ, Zhihu, Douban, Douyin (TikTok China), Xiaoheihe, Baidu Tieba, Bilibili, Xiaohongshu (RED), WeCom (Enterprise WeChat), DingTalk, GitHub public repositories (see private repository restrictions in the Additional Clauses), Telegram, TikTok (International), Instagram, Facebook, Twitter (X), YouTube, Reddit, Discord, etc.
+This restriction applies to all content formats, including but not limited to:
+original text, screenshots, excerpts, translations, adaptations, explanatory content, or any other form of presentation or distribution.
 
 ## Additional Terms
 
