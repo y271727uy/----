@@ -53,6 +53,13 @@ This material is intended solely for non-commercial personal and organizational 
    “Trusted Private Platform” refers to invitation-only, non-public, access-controlled online study or work groups that do not publicly disclose the material.
 6. **Additional Authorization and Communication**  
    For authorization requests, infringement reports, or questions, please communicate openly via the material's official GitHub Issues page.
+7. **GitHub Private Repository Usage Restriction**  
+Personal users are permitted to store this material in a GitHub private repository solely for personal study purposes, under the following conditions:
+   - The repository must be set to private, ensuring the material is not publicly accessible;
+   - Access is strictly limited to the repository owner. Adding collaborators, team members, or organizational access is prohibited;
+   - The material must not be shared, distributed, cloned, forked, or exported through the repository in any way;
+   - Any indirect public exposure or redistribution of the content from a private repository will be considered a violation of this agreement;
+   - In special cases such as collaborative learning, written authorization must be obtained in advance via GitHub Issues before allowing multiple users to access the repository.
 
 ## Acceptance Statement
 
@@ -116,11 +123,11 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 4. **适用范围及法律适用与争议解决**   
    本资料及本协议允许全球范围内的任何用户下载、学习和使用。所有用户无论身处何地，均须遵守本协议所有条款。  
    本协议的订立、生效、解释及争议解决均适用中华人民共和国法律，任何争议应提交版权方所在地人民法院管辖。
-6. **术语定义**  
+5. **术语定义**  
    “受信私人平台”指基于邀请、非公开、受控访问的在线学习或工作群组，不得对外公开资料内容。
-7. **额外授权与沟通**  
+6. **额外授权与沟通**  
    任何关于授权申请、违规举报、条款疑问等事项，请通过资料发布仓库的GitHub Issues渠道进行公开沟通。
-8. **GitHub 私有仓库使用限制**  
+7. **GitHub 私有仓库使用限制**  
 允许个人用户将本资料存储于 GitHub 私有仓库，仅限用于个人学习目的，前提条件如下：
      - 仓库必须设置为“私有”状态，确保资料不对外公开访问；
      - 仓库仅限本人访问和使用，禁止添加协作者或组织成员；
