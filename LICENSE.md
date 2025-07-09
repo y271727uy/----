@@ -1,6 +1,6 @@
-# Usage Agreement for IELTS Classroom Notes
+# Usage Agreement for Classroom Electronic Notes
 
-Material Name: IELTS Classroom Electronic Notes  
+Material Name:Classroom Electronic Notes  
 Version: V1.0  
 Date of Issue: July 8, 2025  
 Copyright Holder ID: y271727uy  
@@ -39,16 +39,16 @@ This material is intended solely for non-commercial personal and organizational 
 
 1. **Artificial Intelligence Platform Usage Restrictions**  
    1.1 Use of this material is only permitted on OpenAI ChatGPT's temporary conversation mode (with chat history disabled), strictly forbidding upload, storage, or training use.  
-   1.2 Use on the following platforms requires prior written authorization (requests via GitHub Issues): Claude, Anthropic, xAI Grok, Microsoft Copilot, Google Gemini, DeepSeek.  
+   1.2 Use on the following platforms requires prior written authorization (requests via GitHub Issues): Claude Anthropic, xAI Grok, Microsoft Copilot, Google Gemini, DeepSeek.  
    1.3 Uploading, storing, training, or use on all other AI platforms and derivatives is prohibited, including but not limited to Meta LLaMA, HuggingFace, Midjourney, Stable Diffusion, Baidu ERNIE Bot, iFlytek Spark, 360 Brain, Baichuan, Kimi, and others.
 2. **Upload Risks**  
    Users must take reasonable measures to ensure the material is not uploaded, stored, or used on unauthorized platforms. The licensor disclaims all responsibility for violations; users bear all consequences.
 3. **Agreement Effectiveness and Updates**  
    This agreement is effective upon publication and applies to all subsequent versions, updates, modifications, and redistributions of the material. The licensor reserves the right to revise terms at any time; changes become effective immediately upon release. Continued use implies acceptance of updated terms.  
    Users should regularly check the official release page to stay informed of any updates.
-4. **Scope of Application, Governing Law, and Dispute Resolution**
-   -This material and this agreement permit any user worldwide to download, study, and use. All users, regardless of their location, must comply with all terms of this agreement.  
-   -The formation, validity, interpretation, and dispute resolution of this agreement shall be governed by the laws of the People's Republic of China, and any disputes shall be submitted to the competent court at the location of the copyright holder.
+4. **Scope of Application, Governing Law, and Dispute Resolution**   
+   This material and this agreement permit any user worldwide to download, study, and use. All users, regardless of their location, must comply with all terms of this agreement.  
+   The formation, validity, interpretation, and dispute resolution of this agreement shall be governed by the laws of the People's Republic of China, and any disputes shall be submitted to the competent court at the location of the copyright holder.
 5. **Terminology**  
    “Trusted Private Platform” refers to invitation-only, non-public, access-controlled online study or work groups that do not publicly disclose the material.
 6. **Additional Authorization and Communication**  
@@ -62,7 +62,7 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 
 # 资料使用协议
 
-**资料名称**：雅思课堂电子笔记  
+**资料名称**：课堂电子笔记  
 **版本号**：V1.0  
 **发布日期**：2025年7月8日  
 **版权所有人标识**：y271727uy  
@@ -102,19 +102,19 @@ Downloading, viewing, storing, or using this material constitutes your full unde
 
 1. **人工智能平台使用限制**  
    1.1 仅允许在OpenAI ChatGPT的临时对话模式（关闭聊天记录）下使用本资料，严禁将资料上传至云端、保存或用于训练模型。  
-   1.2 以下平台使用本资料内容需事先获得版权方书面授权（授权申请请通过GitHub Issues提交）：Claude、Anthropic、xAI Grok、Microsoft Copilot、Google Gemini、DeepSeek。  
+   1.2 以下平台使用本资料内容需事先获得版权方书面授权（授权申请请通过GitHub Issues提交）：Claude Anthropic、xAI Grok、Microsoft Copilot、Google Gemini、DeepSeek。  
    1.3 禁止在其他人工智能平台及其所有衍生版本中上传、存储、训练或使用本资料，举例包括但不限于Meta LLaMA、HuggingFace、Midjourney、Stable Diffusion、文心一言、讯飞星火、百度千帆、360智脑、百川、Kimi等。
 2. **资料上传与风险**  
    使用者须采取合理措施确保资料不被上传至未授权平台，不被保存或用于训练。如违反，本协议不承担任何责任，相关后果由使用者自负。
 3. **协议生效与版本更新**  
    本协议自发布之日起生效，自动适用于资料的所有后续版本、更新、修改及再分发副本。版权方保留随时修订协议的权利，修订内容在发布后立即生效。用户继续使用资料视为同意最新版本条款。  
    用户应定期关注资料发布页面，确保了解并遵守最新协议。
-4. **适用范围及法律适用与争议解决**
-   -本资料及本协议允许全球范围内的任何用户下载、学习和使用。所有用户无论身处何地，均须遵守本协议所有条款。  
-   -本协议的订立、生效、解释及争议解决均适用中华人民共和国法律，任何争议应提交版权方所在地人民法院管辖。
-5. **术语定义**  
+4. **适用范围及法律适用与争议解决**   
+   本资料及本协议允许全球范围内的任何用户下载、学习和使用。所有用户无论身处何地，均须遵守本协议所有条款。  
+   本协议的订立、生效、解释及争议解决均适用中华人民共和国法律，任何争议应提交版权方所在地人民法院管辖。
+6. **术语定义**  
    “受信私人平台”指基于邀请、非公开、受控访问的在线学习或工作群组，不得对外公开资料内容。
-6. **额外授权与沟通**  
+7. **额外授权与沟通**  
    任何关于授权申请、违规举报、条款疑问等事项，请通过资料发布仓库的GitHub Issues渠道进行公开沟通。
 
 ## 协议接受声明
