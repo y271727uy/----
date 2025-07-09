@@ -39,6 +39,9 @@ This material is intended solely for non-commercial personal and organizational 
 Weibo, WeChat, QQ, Zhihu, Douban, Douyin (TikTok China), Xiaoheihe, Baidu Tieba, Bilibili, Xiaohongshu (RED), WeCom (Enterprise WeChat), DingTalk, GitHub public repositories (see private repository restrictions in the Additional Clauses), Telegram, TikTok (International), Instagram, Facebook, Twitter (X), YouTube, Reddit, Discord, etc.
 This restriction applies to all content formats, including but not limited to:
 original text, screenshots, excerpts, translations, adaptations, explanatory content, or any other form of presentation or distribution.
+7. **Prohibition on Use for AI Large-Scale Model Training**  
+  It is strictly prohibited for any individual, company, institution, or organization to use the materials in this repository for the training, fine-tuning, enhancement, corpus construction, input analysis, or any form of machine learning processing of artificial intelligence large-scale models (LLMs) or related systems.
+This prohibition applies to all purposes, including but not limited to commercial use, academic research, and experimental testing, as well as any direct or indirect actions such as uploading, embedding, transforming, or parsing the materials.
 
 ## Additional Terms
 
